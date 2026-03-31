@@ -1,0 +1,50 @@
+<html>
+<head>
+<title>seminar schedule</title>
+</head>
+<body>
+<table border="2" align="center"bgcolor="seeblue" width="50%">
+<tr>
+ <td rowspan="3">day</th>
+ <td colspan="4" align="center">seminar</th>
+</tr>
+<tr>
+ <td colspan="2">schedule</td>
+ <td rowspan="2" colspan="2" align="center">topic</td>
+</tr>
+<tr>
+ <td>begin</td>
+ <td>end</td>
+</tr>
+<tr>
+ <td rowspan="2">monday</td>
+ <td bgcolor="orange" rowspan="2">8:00 a.m</td>
+ <td bgcolor="blue" rowspan="2">5:00 p.m</td>
+ <td>introduction to xml</td>
+</tr>
+<tr>
+ 
+ <td>validity :DTD and relax NG</td>
+</tr>
+<TR>
+ <td rowspan="3">tuesday</td>
+ <td bgcolor="orange">8:00 a.m</td>
+ <td bgcolor="orange">11:00 a.m</td>
+ <td>xpath</td>
+ </tr>
+ <TR>
+ <td bgcolor="orange">11:00 a.m</td>
+ <td bgcolor="green">02:00 p.m</td>
+ <td rowspan="2">xsl transformatic</td>
+ </tr>
+ <TR>
+ <td bgcolor="green">02:00 p.m</td>
+ <td bgcolor="orange">05:00 a.m</td>
+ </tr>
+ <tr>
+ <td >wednesday</td>
+ <td bgcolor="orange">8:00 a.m</td>
+ <td bgcolor="green">12:00 p.m</td>
+ <td>xsl formatting objects</td>
+</body>
+</html>

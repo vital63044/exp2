@@ -1,0 +1,16 @@
+<html>
+<head>
+    <title>Checkbox Example</title>
+</head>
+<body>
+
+<h2>Choose your skills:</h2>
+
+<form>
+    <label><input type="checkbox" name="skill" value="HTML"> HTML</label><br>
+    <label><input type="checkbox" name="skill" value="CSS"> CSS</label><br>
+    <label><input type="checkbox" name="skill" value="JavaScript"> JavaScr</label><br>
+</form>
+
+</body>
+</html>
